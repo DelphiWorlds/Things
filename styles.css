@@ -1,0 +1,12 @@
+:root {
+  --text-color: #333;     /* Default text color (light mode) */
+  --background-color: #fff; /* Default background color (light mode) */
+}
+
+/* Dark theme */
+@media (prefers-color-scheme: dark) {
+  :root {
+      --text-color: #fff;     /* Text color for dark mode */
+      --background-color: #333; /* Background color for dark mode */
+  }
+}
