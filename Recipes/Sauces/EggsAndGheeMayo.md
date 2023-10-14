@@ -1,11 +1,13 @@
 <link rel="stylesheet" href="../../styles.css">
 
+[Sauces and Dressings](../index.md)
+
 # Eggs and Ghee Mayonnaise
 
 **Ingredients:**
 
 - 2 large eggs (approximately 120 grams each)
-- 250 ml ghee (clarified butter)
+- 250 ml [OMGhee](https://omghee.com/) (ghee)
 - 2 teaspoons Dijon mustard
 - 2 teaspoons white wine vinegar or lemon juice
 - 1/2 teaspoon salt, or to taste
@@ -15,6 +17,7 @@
 
 1. **Prepare Your Ingredients:**
    - Ensure that the eggs are at room temperature, as this will help the mayo emulsify better.
+   - Ensure that the ghee is melted into liquid, but is still cool enough so that it does not cook the eggs
    - Measure out the ghee, Dijon mustard, white wine vinegar or lemon juice, salt, and white pepper.
 
 2. **Separate the Eggs:**
