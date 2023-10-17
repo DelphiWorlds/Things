@@ -1,3 +1,7 @@
+<link rel="stylesheet" href="../../styles.css">
+
+[Meat](../index.md)
+
 # Sausage Meat
 
 **Ingredients:**
