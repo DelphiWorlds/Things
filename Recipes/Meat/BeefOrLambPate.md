@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="../../styles.css">
 
-[Meat](../index.md)
+[Meat](../Meat)
 
 # Beef or Lamb Liver Pâté
 
